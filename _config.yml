@@ -1,0 +1,14 @@
+layout_spectrum: 0.8200859
+color:
+  saturation: 0.76112
+  lightness: 0.4762244
+  brandStrength: 0.9358924
+  brandColors:
+    - '#FFFFFF'
+    - '#2A0001'
+    - '#867C58'
+    - '#3CA797'
+    - '#CC3D29'
+  rhythmicContrast: 0.5569867
+typography_spectrum: 0.8823845
+name: The Outfit
